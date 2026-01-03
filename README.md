@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🕵️‍♂️ Data Detective 🕵️‍♂️
 
-<!--
-**vraj-p8/vraj-p8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In every messy dataset, there’s a mystery waiting to be solved.
 
-Here are some ideas to get you started:
+I’m Vraj - part engineer, part detective, fully obsessed with turning raw data into real stories. For the past 3 years, I’ve been uncovering hidden trends, decoding complex pipelines, and translating chaos into clarity.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My toolkit? The usual suspects: **Databricks, AWS, Snowflake, dbt**, with a bit of **GCP** experimentation on the side. Whether it’s building a rock-solid data pipeline or chasing down rogue ETL bugs, I’m happiest deep in the investigation - hands on the code, eyes on the patterns.  
+
+Think of me as the one who doesn’t just move data around, but makes sense of it.  
+
+🔍 **Current Case Files**  
+- Building a RAG-powered HR assistant that can read policies, answer employee questions, and cut down “Hey, quick HR doubt…” messages.  
+- Automating sales and marketing workflows with **n8n**, so the team spends less time clicking around CRMs and more time actually closing deals.     
+
+🌐 **Explore my site:**  
+[https://datawithvraj.vercel.app/](https://datawithvraj.vercel.app/)  
+
+🧩 **Fun fact:**  
+I still treat broken JSONs like crime scenes - every missing curly brace tells a story.

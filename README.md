@@ -13,7 +13,7 @@ Think of me as the one who doesn’t just move data around, but makes sense of i
 - Automating sales and marketing workflows with **n8n**, so the team spends less time clicking around CRMs and more time actually closing deals.     
 
 🌐 **Explore my site:**  
-[https://datawithvraj.vercel.app/](https://datawithvraj.vercel.app/)  
+[https://vrajdataverse.vercel.app/](https://vrajdataverse.vercel.app/)  
 
 🧩 **Fun fact:**  
 I still treat broken JSONs like crime scenes - every missing curly brace tells a story.
